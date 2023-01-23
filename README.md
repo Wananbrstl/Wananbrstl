@@ -9,3 +9,6 @@ There are my daily tools:
     <img src="https://skillicons.dev/icons?i=git,github,vscode,cmake,neovim,cpp,c,python,matlab,ros,qt" />
   </a>
 </p>
+
+
+![Wananbrstl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wananbrstl&show_icons=true&theme=synthwave)
